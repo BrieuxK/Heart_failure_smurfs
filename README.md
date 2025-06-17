@@ -8,12 +8,16 @@ Using a dataset containing 20+ different variables and heart scan pictures, the 
 4. Training of several machine learning models
 5. Comparison/discussion of the different results
 
+### Selection of variables
 
 <!-- Row 1: Feature selection images -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e084837-aca3-4cbe-85c5-f44caaa085e3" width="45%" alt="features_MI" />
   <img src="https://github.com/user-attachments/assets/17819440-9993-48f1-9051-315dff3215e5" width="45%" alt="features_selected" />
 </p>
+
+
+### Results
 
 <!-- Grid: 2x2 for the 4 histograms -->
 <p align="center">
